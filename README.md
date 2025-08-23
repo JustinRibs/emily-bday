@@ -4,10 +4,10 @@ A beautiful, interactive birthday countdown website created for Emily Lauro's bi
 
 ## Features
 
-- **Real-time Countdown**: Shows days, hours, minutes, and seconds until Emily's birthday
+- **dfgdfgdfgReal-time Countdown**: Shows days, hours, minutes, and seconds until Emily's birthday
 - **Beautiful Design**: Modern gradient backgrounds with glassmorphism effects
 - **Responsive Layout**: Works perfectly on desktop, tablet, and mobile devices
-- **Interactive Elements**: 
+- **Interactive Elements**:
   - Hover effects on countdown timers
   - Click to trigger confetti animation
   - Floating balloon decorations
@@ -45,13 +45,23 @@ A beautiful, interactive birthday countdown website created for Emily Lauro's bi
 - **Gradient Animations**: Animated gradient backgrounds and text effects
 
 Enjoy celebrating Emily's birthday! 🎂✨
+
 # emil-bday
+
 # emil-bday
+
 # emily-bday
+
 # emily-bday
+
 # emily-bday
+
 # emily-bday
+
 # emily-bday
+
 # emily-bday
+
 # emily-bday
+
 # emily-bday
